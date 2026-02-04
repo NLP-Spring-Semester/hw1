@@ -1,0 +1,8 @@
+[project]
+name = "hw1"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9"
+dependencies = [
+    "regex>=2026.1.15",
+]
