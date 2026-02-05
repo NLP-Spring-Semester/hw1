@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 *.pyc
+output/
+generate_report.py
+.claude/
