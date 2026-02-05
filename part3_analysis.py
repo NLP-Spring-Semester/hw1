@@ -7,8 +7,8 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-from src.part1_regex import preprocess_part1
-from src.part2_tokenization import space_tokenize, BPETokenizer, SentencePieceBPE
+from part1_regex import preprocess_part1
+from part2_tokenization import space_tokenize, BPETokenizer, SentencePieceBPE
 
 SENTIMENT_PATH = "datasets/sentiment140_noemoticon_10000.csv"
 WIKI_PATH = "datasets/simple_english_wikipedia_10000.txt"

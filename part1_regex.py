@@ -1,4 +1,4 @@
-# src/part1_regex.py
+# part1_regex.py
 import re
 
 # Replace tokens

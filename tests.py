@@ -1,4 +1,4 @@
-from src.part1_regex import (
+from part1_regex import (
     replace_mentions,
     replace_urls,
     replace_hashtags,
@@ -7,7 +7,7 @@ from src.part1_regex import (
     URL_TOKEN,
     HASHTAG_TOKEN,
 )
-from src.part2_tokenization import (
+from part2_tokenization import (
     BPETokenizer,
     SentencePieceBPE,
 )
