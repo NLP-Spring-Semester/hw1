@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
-output/
 generate_report.py
 .claude/
+report.md
+.DS_Store
