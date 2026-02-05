@@ -82,3 +82,8 @@ When both tokenizers are trained on `"ab ab"`:
 - **SentencePiece** sees the raw sequence `['a','b',' ','a','b']` and can merge
   the space *with adjacent characters from either side*, producing cross-word-boundary
   tokens. With enough merges, the entire string collapses to `['ab ab']`.
+
+
+### The use of AI 
+
+In completing this assignment, we made strict and responsible use of different tools as a support mechanism rather than a substitute for our own work. We primarily used AI to help with clarifying language, guiding us through our code, improving organization, and refining the presentation of ideas through graphs, especially when translating technical understanding into clear written explanations. All analysis, interpretations of results, and conclusions were developed by us based on our own implementation, observations, and critical reasoning either in person or through calls. We carefully reviewed and edited any AI-assisted content to ensure correctness, originality, and alignment with the objectives of the course. Overall, AI served as more of a supplementary tool to enhance clarity and efficiency, while the intellectual ownership and academic responsibility for the work remain entirely ours.
